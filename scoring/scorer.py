@@ -15,6 +15,13 @@ REFUSAL_PHRASES = [
     "won't comply",
     "will not comply",
     "unable to comply",
+    "not going to",
+    "will not follow",
+    "won't follow",
+    "don't respond to",
+    "do not respond to",
+    "stick to my role",
+    "stick to my function",
 ]
 
 
